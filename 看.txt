@@ -44,6 +44,9 @@ CCTV10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3
 CCTV10,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 CCTV10,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
+CCTV11,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
+CCTV12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 CCTV14,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
@@ -266,7 +269,6 @@ CCTV12,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022586/1.
 CCTV11,https://live.goodiptv.club/api/bestv.php?id=CCTV11hd8m/8000000
 CCTV12,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV12,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
 CCTV13,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001328/index.m3u8?
