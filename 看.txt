@@ -2009,3 +2009,8 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 3. 暗流涌动,https://vkvd188.mycdn.me/?expires=1703793017906&srcIp=117.182.183.188&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.188&type=3&sig=_yObKw0yiaU&ct=0&urls=45.136.20.184&clientType=14&appId=512000384397&zs=43&id=5824879594039
 4. 幕后黑手“东伊运”与新疆暴恐,https://cn-sccd-ct-01-21.bilivideo.com/upgcxcode/21/37/317263721/317263721_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703712660&gen=playurlv2&os=bcache&oi=2043500563&trid=00003ab0060bff6942c58cf6032c43c28466h&mid=0&platform=html5&upsig=5820203a4039603355c11de498f50ad2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=62621&bvc=vod&nettype=0&f=h_0_0&bw=42565&logo=80000000
 4. 幕后黑手“东伊运”与新疆暴恐,https://vkvd256.mycdn.me/?srcIp=117.182.183.188&pr=40&expires=1703992755751&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.177&type=4&sig=Im4Xiq9sdrg&ct=14&urls=45.136.21.165&clientType=14&appId=512000384397&zs=43&id=5824883919415
+密码_9527,#genre#
+1,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+2,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+3,https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+4,http://51.159.102.100/PenthouseGold/index.m3u8
