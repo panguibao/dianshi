@@ -386,10 +386,10 @@ CCTV风云足球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212
 CCTV风云音乐 4M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV高尔夫网球 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
 CGTN 8M1080,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
-凤凰中文 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
-凤凰资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰中文 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
+凤凰资讯 576,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 卫视,#genre#
 湖南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
 浙江卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001023/index.m3u8?
