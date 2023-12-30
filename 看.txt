@@ -1,3 +1,64 @@
+日本,#genre#
+Channel Ginga ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+ABC ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+Animax ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+BS Asahi ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+BS Fuji TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+BS Nippon TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+BS TBS ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+BS TV Tokyo ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+CNNj ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+Disney Channel Japan ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+Disney Junior ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+Eisei Gekijo ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+EWTN Africa Asia ,https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+EWTN Asia-Pacific  [Not 24/7],https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+Family Gekijo ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+Fishing Vision ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+Fuji TV NEXT ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+GSTV ,https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
+Home Drama Channel ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+J Sports 1 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+J Sports 2 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+J Sports 3 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+J Sports 4 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+Jidaigeki Senmon ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+Kansai TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+Kayo Pops ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+Kids Station ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+LaLa TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+MBS ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+Mondo TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+Movie Plus ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+Music Japan TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+NHK BSP4K ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+NHK E (Tokyo) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+NHK G (Osaka) ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+NHK G (Tokyo) ,http://203.162.235.41:14093
+NHK World News (French Subs) ,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/fr/playlist.m3u8
+NHK World News (Portuguese Subs) ,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+NHK World News (Spanish Subs) ,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+Nihon Eiga Senmon ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+Nittele G Plus ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+NTV News24 ,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+QVC Japan ,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Shop Channel  [Not 24/7],https://stream3.shopch.jp/HLS/master.m3u8
+Sky A ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+Space Shower TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+Star 1 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+Star 2 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+Star 3 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+Sun TV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+Tabi Channel ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+TAKARAZUKA SKY STAGE ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+Toei Channel ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+Tokyo MX1 ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+Tokyo MX2 ,https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
+TV Osaka ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+WOWOW Cinema ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+WOWOW Live ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+YTV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
 外国,#genre#
 Al Jazeera English,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 Rouge TV – Carac1,https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
@@ -2025,6 +2086,59 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+台湾,#genre#
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2 ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱网络 ,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+唯心電視 ,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+加速台湾,#genre#
+MNews ,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+Taiwan Plus TV ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+TVBS Asia ,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+天才衝衝衝 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+東森購物60 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+Global News ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+🐔綜合台 ,https://live.streamingfast.net/osmflivech1.m3u8
+🐔綜合台 ,https://live.streamingfast.net/osmflivech1.m3u8
+🐔真理台 ,https://live.streamingfast.net/osmflivech2.m3u8
+🐔真情部落格 短版 ,https://live.streamingfast.net/osmflivech3.m3u8
+🐔共享觀點 短版 ,https://live.streamingfast.net/osmflivech5.m3u8
+🐔親近神 詩歌音樂 ,https://live.streamingfast.net/osmflivech6.m3u8
+🐔禱告大軍 信息 ,https://live.streamingfast.net/osmflivech7.m3u8
+🐔愛+好醫生 短版 ,https://live.streamingfast.net/osmflivech9.m3u8
+🐔維他命施 ,https://live.streamingfast.net/osmflivech12.m3u8
+🐔真情部落格 ,https://live.streamingfast.net/osmflivech14.m3u8
+🐔真情之夜 ,https://live.streamingfast.net/osmflivech15.m3u8
+🐔葉光明 ,https://live.streamingfast.net/osmflivech16.m3u8
+🐔大衛鮑森 ,https://live.streamingfast.net/osmflivech17.m3u8
+🐔國際講員 ,https://live.streamingfast.net/osmflivech18.m3u8
+🐔恩典時分 ,https://live.streamingfast.net/osmflivech20.m3u8
+🐔華語講員 ,https://live.streamingfast.net/osmflivech21.m3u8
+🐔劉三講古 ,https://live.streamingfast.net/osmflivech24.m3u8
+🐔空中聖經學院 ,https://live.streamingfast.net/osmflivech27.m3u8
+🐔現代詩歌 ,https://live.streamingfast.net/osmflivech28.m3u8
+🐔經典音樂河 ,https://live.streamingfast.net/osmflivech29.m3u8
+🐔天堂敬拜 ,https://live.streamingfast.net/osmflivech30.m3u8
+🐔福音佈道音樂會 ,https://live.streamingfast.net/osmflivech31.m3u8
+🐔特會系列：禱告與轉化 ,https://live.streamingfast.net/osmflivech32.m3u8
+🐔特會系列：研經培靈 ,https://live.streamingfast.net/osmflivech33.m3u8
+🐔特會系列：青年特會 ,https://live.streamingfast.net/osmflivech38.m3u8
+🐔家庭8點檔轉轉發現愛 ,https://live.streamingfast.net/osmflivech40.m3u8
+🐔卡通 ,https://live.streamingfast.net/osmflivech45.m3u8
+🐔牧者頻道 ,https://live.streamingfast.net/osmflivech47.m3u8
+🐔禱告頻道 ,https://live.streamingfast.net/osmflivech49.m3u8
+🐔國際講員 中文發音 ,https://live.streamingfast.net/osmflivech50.m3u8
+🐶交通委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
+🐶內政委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
+🐶司法及法制委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
+🐶外交及國防委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
+🐶教育及文化委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
+🐶朝野協商 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
+🐶社會福利及衛生環境委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
+🐶經濟委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
+🐶財政委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
+🐶院會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+
 纪录片,#genre#
 1. 巍巍天山,https://cn-jxjj-ct-01-03.bilivideo.com/upgcxcode/40/86/203398640/203398640-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703712440&gen=playurlv2&os=bcache&oi=2043500563&trid=0000654b671381604969a5f745508c2a8fc3h&mid=0&platform=html5&upsig=20be85ef465a2794abd92d1cea3d34df&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=4263&bvc=vod&nettype=0&f=h_0_0&bw=57540&logo=80000000
 1. 巍巍天山,https://vkvd195.mycdn.me/?srcIp=35.215.152.100&pr=40&expires=1703993445295&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.202&type=3&sig=7FZcPTQXaJs&ct=0&urls=185.226.52.172&clientType=14&appId=512000384397&zs=43&id=5824866748983
