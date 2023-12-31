@@ -1,4 +1,6 @@
 日本,#genre#
+日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 Channel Ginga ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
 ABC ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
 Animax ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
@@ -84,8 +86,6 @@ ArirangTV ,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 Astrakhan24,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 SkyNews Sky News Extra 1
 Sky News Extra 1,https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky News Extra 2,https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
@@ -2133,12 +2133,12 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 
 
 
-MNews ,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-Taiwan Plus TV ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-TVBS Asia ,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-天才衝衝衝 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-東森購物60 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-Global News ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+🔥MNews ,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+🔥Taiwan Plus TV ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+🔥TVBS Asia ,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+🔥天才衝衝衝 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+🔥東森購物60 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+🔥Global News ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 🐔綜合台 ,https://live.streamingfast.net/osmflivech1.m3u8
 🐔綜合台 ,https://live.streamingfast.net/osmflivech1.m3u8
 🐔真理台 ,https://live.streamingfast.net/osmflivech2.m3u8
@@ -2189,7 +2189,15 @@ Global News ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 3. 暗流涌动,https://vkvd188.mycdn.me/?expires=1703793017906&srcIp=117.182.183.188&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.188&type=3&sig=_yObKw0yiaU&ct=0&urls=45.136.20.184&clientType=14&appId=512000384397&zs=43&id=5824879594039
 4. 幕后黑手“东伊运”与新疆暴恐,https://cn-sccd-ct-01-21.bilivideo.com/upgcxcode/21/37/317263721/317263721_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703712660&gen=playurlv2&os=bcache&oi=2043500563&trid=00003ab0060bff6942c58cf6032c43c28466h&mid=0&platform=html5&upsig=5820203a4039603355c11de498f50ad2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=62621&bvc=vod&nettype=0&f=h_0_0&bw=42565&logo=80000000
 4. 幕后黑手“东伊运”与新疆暴恐,https://vkvd256.mycdn.me/?srcIp=117.182.183.188&pr=40&expires=1703992755751&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.177&type=4&sig=Im4Xiq9sdrg&ct=14&urls=45.136.21.165&clientType=14&appId=512000384397&zs=43&id=5824883919415
-密码_9527,#genre#
+🈲_9527,#genre#
+欲望 ,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+纯禁忌,http://78.47.224.234/puretaboo/index.m3u8
+红光高清,http://51.159.102.100/RedlightHD/index.m3u8
+🔥骗子,http://23.237.100.82:8000/HUSTLER/index.m3u8
+🔥阁楼,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+🔥花花公子,http://23.237.100.82:8000/PLAYBOY/index.m3u8
+🔥BRAZZERS,http://23.237.100.82:8000/BRAZZERS/index.m3u8
+
 18+1,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 +18 Miami TV,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1313431720_b1896000.m3u8
 +18 Miami TV Latino,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1103718049_b1896000.m3u8
