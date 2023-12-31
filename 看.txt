@@ -2180,23 +2180,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 🐶財政委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 🐶院會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 
-纪录片,#genre#
-1. 巍巍天山,https://cn-jxjj-ct-01-03.bilivideo.com/upgcxcode/40/86/203398640/203398640-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703712440&gen=playurlv2&os=bcache&oi=2043500563&trid=0000654b671381604969a5f745508c2a8fc3h&mid=0&platform=html5&upsig=20be85ef465a2794abd92d1cea3d34df&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=4263&bvc=vod&nettype=0&f=h_0_0&bw=57540&logo=80000000
-1. 巍巍天山,https://vkvd195.mycdn.me/?srcIp=35.215.152.100&pr=40&expires=1703993445295&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.202&type=3&sig=7FZcPTQXaJs&ct=0&urls=185.226.52.172&clientType=14&appId=512000384397&zs=43&id=5824866748983
-2. 反恐前沿,https://upos-sz-mirrorali.bilivideo.com/upgcxcode/36/84/317258436/317258436_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703712972&gen=playurlv2&os=alibv&oi=2043500563&trid=3916106635644bc9a224e95b877ba14bh&mid=0&platform=html5&upsig=8c7fe161efc9441815b79b81f04aee71&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&f=h_0_0&bw=40567&logo=80000000
-2. 反恐前沿,https://vkvd250.mycdn.me/?srcIp=43.249.50.181&pr=40&expires=1703994304636&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.167&type=3&sig=ug2NcBOlJqA&ct=0&urls=185.226.53.164&clientType=14&appId=512000384397&zs=43&id=5824874416695
-3. 暗流涌动,https://cn-hbyc-ct-02-16.bilivideo.com/upgcxcode/18/47/318434718/318434718_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703712605&gen=playurlv2&os=bcache&oi=2043500563&trid=0000da9c6d1b3eab4b4bacf8fe2ea8e221e2h&mid=0&platform=html5&upsig=74226f967d2e3a321e2bb04aa743034d&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=8079&bvc=vod&nettype=0&f=h_0_0&bw=33100&logo=80000000
-3. 暗流涌动,https://vkvd188.mycdn.me/?expires=1703793017906&srcIp=117.182.183.188&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.188&type=3&sig=_yObKw0yiaU&ct=0&urls=45.136.20.184&clientType=14&appId=512000384397&zs=43&id=5824879594039
-4. 幕后黑手“东伊运”与新疆暴恐,https://cn-sccd-ct-01-21.bilivideo.com/upgcxcode/21/37/317263721/317263721_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1703712660&gen=playurlv2&os=bcache&oi=2043500563&trid=00003ab0060bff6942c58cf6032c43c28466h&mid=0&platform=html5&upsig=5820203a4039603355c11de498f50ad2&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=62621&bvc=vod&nettype=0&f=h_0_0&bw=42565&logo=80000000
-4. 幕后黑手“东伊运”与新疆暴恐,https://vkvd256.mycdn.me/?srcIp=117.182.183.188&pr=40&expires=1703992755751&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.177&type=4&sig=Im4Xiq9sdrg&ct=14&urls=45.136.21.165&clientType=14&appId=512000384397&zs=43&id=5824883919415
 🈲_9527,#genre#
-欲望 ,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
-纯禁忌,http://78.47.224.234/puretaboo/index.m3u8
-红光高清,http://51.159.102.100/RedlightHD/index.m3u8
-🔥骗子,http://23.237.100.82:8000/HUSTLER/index.m3u8
-🔥阁楼,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
-🔥花花公子,http://23.237.100.82:8000/PLAYBOY/index.m3u8
-🔥BRAZZERS,http://23.237.100.82:8000/BRAZZERS/index.m3u8
 
 18+1,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 +18 Miami TV,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1313431720_b1896000.m3u8
@@ -2206,4 +2190,11 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 +18 a3bikini,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 18+2,https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
 18+3,http://51.159.102.100/PenthouseGold/index.m3u8
+纯禁忌,http://78.47.224.234/puretaboo/index.m3u8
+红光高清,http://51.159.102.100/RedlightHD/index.m3u8
+🔥骗子,http://23.237.100.82:8000/HUSTLER/index.m3u8
+🔥阁楼,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+🔥花花公子,http://23.237.100.82:8000/PLAYBOY/index.m3u8
+🔥BRAZZERS,http://23.237.100.82:8000/BRAZZERS/index.m3u8
+🔥欲望 ,http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 
