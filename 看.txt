@@ -70,7 +70,6 @@ CNA 新加坡,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66e
 Thai PBS 3,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 ArirangTV F,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ArirangTV ,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-韩·BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩·SBS,http://1.245.74.5:1935/live/tv/.m3u8
 韩·JobPlusTV,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 韩·GS My Shop,https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
@@ -1954,7 +1953,25 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱网络,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+卍,#genre#
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w1771767427.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱广播1,http://38.96.148.28:8156/stream
+净空,https://sg1.hwadzan.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
+JingKong,https://sg1.hwadzan.info/liveedge/_definst_/English/playlist.m3u8
+BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+
+多元文化教育台,https://sg1.hwadzan.info/liveedge/_definst_/education/playlist.m3u8
+悟道法師,https://sg1.hwadzan.info/liveedge/_definst_/wdmaster/playlist.m3u8
+三时系念,https://sg1.hwadzan.info/liveedge/_definst_/smil:sanshi_720p.smil/playlist.m3u8
 唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+界,https://www.fojiao.live/q/index.m3u8
+大悲忏法会1,https://www.fojiao.live/video/sv/b72864b-178e33e4792/b72864b-178e33e4792.mp4
+大悲忏法会2,https://www.fojiao.live/video/sv/3805b949-1866a12c8a3/3805b949-1866a12c8a3.mp4
+大悲忏法会3,https://www.fojiao.live/video/sv/41db97ef-189f6e540c9/41db97ef-189f6e540c9.mp4
+ 🔥生命,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+
 科学,#genre#
 
 
