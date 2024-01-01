@@ -2180,7 +2180,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 🐶財政委員會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 🐶院會 ,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 
-🈲_9527,#genre#
+    _9527,#genre#
 
 18+1,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 +18 Miami TV,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1313431720_b1896000.m3u8
