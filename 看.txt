@@ -2124,10 +2124,10 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 台湾,#genre#
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2 ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大爱网络 ,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-唯心電視 ,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-科学上网,#genre#
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱网络,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+科学,#genre#
 
 
 
