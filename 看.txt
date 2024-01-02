@@ -2008,8 +2008,8 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 🐶財政委員會,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 🐶院會,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 电视安装教程,#genre#
-无须优盘安装电视APP,https://v4-vod.kwaicdn.com/bs3/video-hls/5198279984592256909_hlsb.m3u8?ftt=R&pkey=AAUZbZVHbwbOS1xtSbQb-HXjg6MKGUOcBQNOwk8cpgdGSytqXYUBPiRrMiJNRSHn4kb7T_OFy3KluuHIeSida6PG9vlNzqCP0pvHZs0mWk0YR-5B2mYIXNPuPr6rjVPnZPQ&ss=vp
-    _9527,#genre#
+无须优盘安装电视APP,https://vkvd189.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704642587362&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.189&type=3&sig=Ont6M_zYUF8&ct=0&urls=45.136.22.177&clientType=14&appId=512000384397&zs=43&id=5874566236727
+  _9527,#genre#
 
 18+1,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 +18 Miami TV,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1313431720_b1896000.m3u8
